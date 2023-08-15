@@ -64,5 +64,22 @@
       "mode": "Single-player"
     }
   ],
-  "cartItems": []
+  "cartItems": [
+    {
+      "gameId": 2,
+      "price": 20,
+      "name": "Batman",
+      "image": "./images/img-2.gif",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "gameId": 2,
+      "price": 20,
+      "name": "Batman",
+      "image": "./images/img-2.gif",
+      "quantity": 1,
+      "id": 2
+    }
+  ]
 }
